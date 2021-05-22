@@ -42,3 +42,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://amazing-oregano-86648.netlify.app'
